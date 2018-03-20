@@ -1,2 +1,2 @@
-# biq-sup
+# Biq-sup
 Biq Sup Moodle Project
